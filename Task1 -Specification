@@ -1,0 +1,21 @@
+var specification  =[
+Memory_Summary =    {
+    'Maximum Capacity'           : "2048_MBytes" ,
+    "Maximum_Memory_Module_Size" : "4096_MBytes" ,
+    "Memory_Slots"               : "4" ,
+    "Error_Correction"           : 'None' ,
+    "DRAM_Frequency"             : "199.0_MHz",
+    "Memory_Timings"             : "3-3-3-8_(CL-RCD-RP-RAS)",
+},
+
+ Device_Locator = {
+    "Manufacturer"          : "Hyundai Electronics",
+    "Part_Number"           : "HYMD264 646D8J-D43",
+    "Serial_Number"         : "FFFFF7240",
+    "Capacity"              : "512_MBytes",
+    "Memory_Type"           : "DDR_(PC3200)",
+    "Speed"                 : "200_MHZ",
+    "Supported_Frequencies" : ['133 MHz',"166 MHz","200 M" ]
+    
+}
+]
